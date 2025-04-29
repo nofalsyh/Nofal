@@ -151,7 +151,7 @@
   <div class="container">
     <div class="top-section">
       <div class="photo-column">
-        <img alt="Portrait of a young man wearing a white shirt and beige jacket standing in front of a building with a banner that says RERANI BESAR" src="payy.jpg".jpg" width="150" height="150" />
+        <imgsrc="payy.jpg".jpg" width="150" height="150" />
         <p>Hi, Nofal</p>
       </div>
       <div class="intro-text">
